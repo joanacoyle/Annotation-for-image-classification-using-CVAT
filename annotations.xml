@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2219169</id>
+      <name>Annotation for image classification using CVAT</name>
+      <size>45</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-05-01 17:32:54.093953+00:00</created>
+      <updated>2026-05-01 17:57:40.425304+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>44</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3936260</id>
+          <start>0</start>
+          <stop>44</stop>
+          <url>https://app.cvat.ai/api/tasks/2219169/dataset/export/api/jobs/3937932</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>jolisantos</username>
+        <email>jolisantos@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Sneakers</name>
+          <color>#aa2906</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Boots1</name>
+          <color>#ae17b1</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-05-01 18:17:34.478966+00:00</dumped>
+  </meta>
+  <image id="0" name="OIG (1).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="1" name="OIG (10).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="2" name="OIG (11).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="3" name="OIG (12).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="4" name="OIG (13).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="5" name="OIG (14).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="6" name="OIG (15).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="7" name="OIG (16).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="8" name="OIG (17).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="9" name="OIG (18).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="10" name="OIG (19).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="11" name="OIG (2).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="12" name="OIG (20).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="13" name="OIG (21).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="14" name="OIG (22).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="15" name="OIG (23).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="16" name="OIG (24).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="17" name="OIG (25).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="18" name="OIG (26).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="19" name="OIG (27).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="20" name="OIG (28).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="21" name="OIG (29).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="22" name="OIG (3).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="23" name="OIG (30).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="24" name="OIG (31).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="25" name="OIG (32).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="26" name="OIG (33).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="27" name="OIG (34).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="28" name="OIG (35).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="29" name="OIG (36).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="30" name="OIG (37).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="31" name="OIG (38).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="32" name="OIG (39).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="33" name="OIG (4).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="34" name="OIG (40).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="35" name="OIG (41).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="36" name="OIG (42).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="37" name="OIG (43).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="38" name="OIG (44).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="39" name="OIG (45).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="40" name="OIG (5).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="41" name="OIG (6).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="42" name="OIG (7).jpg" width="173" height="173">
+    <tag label="Sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="43" name="OIG (8).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+  <image id="44" name="OIG (9).jpg" width="173" height="173">
+    <tag label="Boots1" source="manual">
+    </tag>
+  </image>
+</annotations>
